@@ -16,3 +16,6 @@ Tutorial virtualenv
 Virtualenvs são uma forma de isolar diversos ambientes de desenvolvimento.
 Ele permite que o programador utilize versões específicas de diversos pacotes sem impactar instalações de outras aplicações ou sistemas.
 
+Criação do Virtualenv
+1- Abrir o terminal do git bash
+2- Digite o código "pyhton -m venv .venv", em seguida ative o venv com o código "source .venv/Scripts/activivate"
