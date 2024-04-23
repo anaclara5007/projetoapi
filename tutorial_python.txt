@@ -10,3 +10,9 @@ Os desenvolvedores usam o Python porque é eficiente e fácil de aprender e pode
 2- No Mac, você pode usar o Homebrew para instalar o Python. Digite o seguinte comando no Terminal: “brew install python”.
 3- No Linux, o Python geralmente já está instalado. No entanto, você pode verificar se está instalado digitando “python3 –version”. Se não estiver instalado, você pode instalá-lo usando o gerenciador de pacotes específico para a sua distribuição Linux. Por exemplo, no Ubuntu, você pode usar o seguinte comando: “sudo apt-get install python3”.
 
+
+Tutorial virtualenv
+
+Virtualenvs são uma forma de isolar diversos ambientes de desenvolvimento.
+Ele permite que o programador utilize versões específicas de diversos pacotes sem impactar instalações de outras aplicações ou sistemas.
+
