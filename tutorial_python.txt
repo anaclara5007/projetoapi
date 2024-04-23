@@ -19,3 +19,8 @@ Ele permite que o programador utilize versões específicas de diversos pacotes 
 Criação do Virtualenv
 1- Abrir o terminal do git bash
 2- Digite o código "pyhton -m venv .venv", em seguida ative o venv com o código "source .venv/Scripts/activivate"
+
+Instalação do Flask
+
+1- Com o virtualenv ativado insira o comodando "python.exe -m pip install --upgrade pip" para atualizar o pip. (passo opcional)
+2- Instale o Flask como o comando "pip install Flask"
