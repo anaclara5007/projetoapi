@@ -4,6 +4,6 @@ velocidade = float(input("Digite a velocidade média da viagem em km/h: "))
 
 # Calcula o tempo de viagem
 tempo = distancia / velocidade
-
+nome_motorista = input("Digite o nome do motorista")
 # Exibe o tempo de viagem na tela
-print(f"O tempo estimado de viagem é de {tempo:.2f} horas.")
+print(f"{nome_motorista} O tempo estimado de viagem é de {tempo:.2f} horas.")
